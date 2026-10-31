@@ -1,0 +1,16 @@
+{
+  "version": "2.4.2",
+  "title": "Bản cập nhật v2.4.2: Thử nghiệm OTA qua GitHub Public Release",
+  "publishedAt": "2026-10-31T08:00:00.000Z",
+  "releaseNotes": [
+    "Khởi tạo kênh phân phối công khai qua GitHub orchable/smart-curriculumcu-release",
+    "Tối ưu hoá thời gian kiểm tra và tráo nóng prompt OTA"
+  ],
+  "promptOverrides": {
+    "P10": {
+      "systemPrompt": "# Prompt thử nghiệm OTA từ GitHub Repo orchable",
+      "temperature": 0.2
+    }
+  },
+  "signature": "xemPhLQUScis58YA2LOu02RYEiGyfKqa4KzNulLem1AIaCJmM9pKgpJLouRO9MtO7QiUaHh0biX2lUDuEdSeDQ=="
+}
